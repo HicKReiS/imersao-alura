@@ -15,7 +15,3 @@ function listarFilmesNaTela(filme) {
     var elementoListaFilmes = document.getElementById("listaFilmes")
     elementoListaFilmes.innerHTML = elementoListaFilmes.innerHTML + elementoFilmeFavorito
 }
-
-//Adicionar um botão para remover
-//Adiconar o nome junto com a imagem
-//Criar uma lista
